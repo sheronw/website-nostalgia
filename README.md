@@ -10,5 +10,5 @@ So I went back to about 10 years ago, when I was in primary school. I found many
 I believe they are different and totally new for westerners. However, when I managed to check those websites in my bookmarks(yes I am still keeping those bookmarks, and those websites were clearly not in archive.org) several days before, I find that many of them just disappeared permanently. So I started this project to write those "old-style" website templates(it seems that I cannot redistribute the template directly so I have to write the whole template once again in that kind of "style"), just as an archaeologist making a replica.
 
 ## Content
-### 1. novel-pink
+### 1. novel-01
 This is a pretty simple template to exhibit novels. There were many people sharing their novels on their personal websites at that time.

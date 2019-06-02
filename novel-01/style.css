@@ -73,20 +73,20 @@ overflow:auto; /* add scrollbar if needed */
 #page {
   width: 600px;
   margin:0 auto;
-  border-top: 10px #f3a68c solid;
-  border-bottom: 10px #f3a68c solid;
+  border-top: 10px #512DA8 solid;
+  border-bottom: 10px #512DA8 solid;
 }
 #box{
-  border-top:7px #fbdac8 solid;
-  border-bottom:7px #fbdac8 solid;
+  border-top:7px #9575CD solid;
+  border-bottom:7px #9575CD solid;
 }
 /* header style */
 header {
   text-align: center;
-  border-bottom: 7px #fbdac8 solid;
+  border-bottom: 7px#512DA8 solid;
 }
 header h1 {
-  color: #e17b34;
+  color: #512DA8;
   font: 240%/1.0;
 }
 /* content style */
@@ -95,14 +95,14 @@ header h1 {
 }
 #content h2 {
 padding-left:10px;
-background:#fce4d6;
-color:#e17b34;
+background:#9575CD;
+color:#512DA8;
 font-size: 130%;
 }
 #content h3 {
 padding-left:5px;
 color:#946c45;
-border-bottom:2px #e9dacb solid;
+border-bottom:2px #8B63A6 solid;
 }
 #content h4 {
 color:#898989;
@@ -115,20 +115,20 @@ font-size:80%;
 }
 #content p.after {
   padding:7px;
-  background:#fdede4;
+  background:#dcd1ee;
   color:#946c45;
-  border:2px #fbdac8 solid;
+  border:2px #9575CD solid;
 }
 /* footer style */
 footer {
   padding:5px;
-  border-top: 7px #fbdac8 solid;
+  border-top: 7px #512DA8 solid;
 }
 footer address {
   text-align: right;
   font-weight: bold;
   font-style: normal;
-  color: #e17b34;
+  color: #420F8D;
 }
 footer ul.copy {
   margin: 0;
@@ -153,10 +153,10 @@ footer ul.page a {
   padding: 2px 20px;
   color: #946c45;
   text-decoration: none;
-  border:1px #e29676 solid;
+  border:1px #420F8D solid;
 }
 footer ul.page a:hover {
-  background: #fbdac8;
+  background: #dcd1ee;
 }
 /* location adjustment */
 .center	{ text-align:center; }
