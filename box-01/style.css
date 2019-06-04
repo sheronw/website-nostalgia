@@ -20,7 +20,7 @@ body{
   top: 50%;
   left: 50%;
 }
-
+/*************************/
 /* sidebar */
 #side {
   float: left;
@@ -29,6 +29,24 @@ body{
   background: url(016.gif) no-repeat left bottom;
 }
 
+#side h1{
+  color: #595959;
+  font-size: 140%;
+  margin-bottom: 10px;
+}
+
+/* side bar navi */
+#side ul {
+  padding: 0px;
+  text-align: left;
+}
+
+#side ul li {
+  list-style-type: none;
+}
+
+
+/*************************/
 /* main module */
 #main {
   float: left;
@@ -40,7 +58,7 @@ iframe {
   width: 100%;
   height: 100%;
 }
-
+/*************************/
 /* footer */
 footer {
   clear: left;
@@ -53,4 +71,18 @@ footer {
 footer ul {
   padding-top: 10px;
   padding-left: 240px;
+}
+/*************************/
+/* other elements */
+a {
+  text-decoration: none;
+  color: #374140;
+}
+
+a:hover {
+  color: #607D8B;
+}
+
+a:visited {
+  color: #607D8B;
 }
