@@ -62,15 +62,14 @@ iframe {
 /* footer */
 footer {
   clear: left;
-  /* position: relative; */
+  position: relative;
   width: 100%;
   height: 30px;
   text-align: right;
   background: url(019.gif) no-repeat right top;
 }
 footer ul {
-  padding-top: 10px;
-  padding-left: 240px;
+  padding-right: 240px;
 }
 /*************************/
 /* other elements */
@@ -85,4 +84,7 @@ a:hover {
 
 a:visited {
   color: #607D8B;
+}
+li {
+  list-style-type: none;
 }
