@@ -74,15 +74,19 @@ footer ul {
 }
 /*************************/
 /* other elements */
+em, strong, ins {
+  color: #080808;
+}
+
 a {
   text-decoration: none;
   color: #374140;
 }
 a:hover {
-  color: #376B6D;
+  color: #080808;
 }
 a:visited {
-  color: #376B6D;
+  color: #080808;
 }
 
 li {
@@ -93,14 +97,14 @@ div.dec {
   padding: 5px;
   margin-bottom: 4px;
   background: #D9D9D9;
-  border-left: 5px #376B6D solid;
+  border-left: 5px #080808 solid;
 }
 /* headings */
 h2 {
   background: #BEBDBF;
-  border-left: 5px #376B6D solid;
+  border-left: 5px #080808 solid;
   padding-left: 10px;
-  color: #376B6D;
+  color: #080808;
   margin-bottom: 5px;
 }
 
