@@ -12,3 +12,6 @@ I believe they are different and totally new for westerners. However, when I man
 ## Content
 ### 1. novel-01
 This is a pretty simple template to exhibit novels. There were many people sharing their novels on their personal websites at that time.
+
+### 2. box-01
+This kind of box structure was really popular when I was in the primary school, before the popularization of the smart phone and mobile internet, I think. It is clear that this kind of structure is not "mobile-friendly". I was a little bit lazy so the color is monotonous, but I will write more box template in the future : )
